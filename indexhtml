@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="file.css">
+	<title></title>
+	<style>
+		body{
+			background-color: grey
+		}
+		p{
+			color: yellow
+		}
+	</style>
+</head>
+<body>
+<!--<b>-->
+	<p style="color : lime;"> <b>Write your firt pragraph</b></p>
+	<p><strong>this is an iportant content</strong>	and this normal content</p>
+	<p><i>write your parapgraf</i> and you see that it is italic</p>	
+	<p><em>bu konu </em> çok önemli</p>	
+	<p><small>this is an small content</small> display small font</p>
+	<p> hello<sub>this is about subercript</sub></p>
+	<p>hello<sup>this is supcript</sup></p>
+	<p>veysel tosun<mark>ıt student</mark> highlighted</p>
+	<p>2<sup>2</sup>4 eder</p>
+	<p>this is an inserted<ins>text</ins></p>
+	<p>very markd before<del>this is an </del> like that </p>
+	<p>write first pragraf<u> in underlined</u></p>
+	<p><strike> adfadkadjadş</strike></p>
+	<p><ol> biizm liste
+		<li>veysel</li>
+		<li>cemil</li>
+		<li>pamuk</li>
+		<li>neptün</li>
+	</ol></p>
+	<p>our list <ul>
+		<li>ali</li>
+		<li>veli</li>
+		<li>deli</li>
+	</ul>
+	</p>
+
+	<dl>
+		<dt>micheal</dt>
+		    <dd>-Team Lead</dd>
+		<dt>Robert</dt>
+		    <dd>-Academic Coord</dd>
+		<dt>Bruce</dt>
+		    <dd>-Tech Coord</dd>
+	</dl>
+	<p>List of cities</p>
+	<li> copenhag</li>
+   
+
+<table>
+	<tr align="left">
+		<th>firt name</th>
+		<th>Last Name</th>
+		<th>Marks</th>
+	<tr>
+		<td>Micheal</td>
+		<td>Robert</td>
+		<td>Bruce</td>
+		<td>Sergio</td>
+
+	</tr>
+	<tr>
+		<td>Adams</td>
+		<td>taco</td>
+		<td>90</td>
+	</tr>
+</table>
+<br>
+<table border ="5">
+	<tr align="left">
+		<th>firt name</th>
+		<th>Last Name</th>
+		<th>Marks</th>
+	<tr>
+		<td>Micheal</td>
+		<td>Robert</td>
+		<td>Bruce</td>
+		<td>Sergio</td>
+
+	</tr>
+	<tr>
+		<td>Adams</td>
+		<td>taco</td>
+		<td>90</td>
+	</tr>
+</table>
+<br>
+     <table border = "3">
+     	<tr>
+     		<th> Name</th>
+     		<th colspan="2"> Mobile No </th>
+
+     	</tr>
+     	<tr>
+     		<th>segio</th>
+     		<th>43753753053</th>
+     		<th>825757205325</th>
+
+     	</tr>
+     </table>
+   <br>
+   <table border ="5">
+   	    <tr>
+   	    	<th>name</th> <td>sergio</td>
+   	    </tr>
+   	    <tr> 
+   	    	<th rowspan="2">mobile no</th><td>
+   	    </tr>
+   	    <tr>
+   	    	<td>5356353953</td>
+   	    </tr>
+
+   	   
+   </table>
+   <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgnd8HZFT1lKGgrYB2odNhyhzAXJmFT01VQ&usqp=CAU" alt="background" width="500" height="250"></p>
+   <br>
+   <p><img src="https://clarusway.com/wp-content/uploads/2020/06/clarusway_logo.png"alt="clarusway_logo" width="max"height="max"></p>
+   <br>
+   <p><img src="clarusway_logo.png" alt="clarusway_logo" height="max" width="max"></p>
+   <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/1200px-VAN_CAT.png" alt="VAN_CAT" width="max" height="max"></ins></p>
+   <br>
+   <p><img src="indir.jfif" alt="VAN_CAT" height="100" width="100"></p>
+   <p><img src="C:\Users\posta\OneDrive\Masaüstü/indir.jfif" alt="cat image" width="200" height="200"></p>
+</body>
+</html>
